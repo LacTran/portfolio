@@ -6,7 +6,7 @@ export default function Home() {
         <main>
             <img
                 src={image}
-                alt="Background Image"
+                alt="background"
                 className="absolute object-cover w-full h-full background-image"
             />
             <section className="relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8">

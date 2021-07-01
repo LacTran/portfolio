@@ -30,7 +30,7 @@ export default function About() {
 
     return (
         <main className="relative">
-            <img src={backgroundImage} alt="Background image" className="absolute w-full" />
+            <img src={backgroundImage} alt="background" className="absolute w-full" />
             <div className="p-10 lg:pt-48 container mx-auto relative">
                 <section className="bg-green-800 rounded-lg shadow-2xl lg:flex p-20">
                     <img
